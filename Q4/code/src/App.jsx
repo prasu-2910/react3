@@ -1,10 +1,9 @@
-import Counter from "./Counter";
+import Userprofile from "./Components/UserProfile";
 
 function App() {
   return (
     <div>
-      <h2>Counter App</h2>
-      <Counter />
+     <Userprofile/>
     </div>
   );
 }
